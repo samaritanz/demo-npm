@@ -17,10 +17,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/geneking/npm-develop.git"
+    "url": "git+https://github.com/samaritanz/demo-npm.git"
   },
   "bugs": {
-    "url": "https://github.com/geneking/npm-develop/issues"
+    "url": "https://github.com/samaritanz/demo-npm/issues"
   },
-  "homepage": "https://github.com/geneking/npm-develop#readme"
+  "homepage": "https://github.com/samaritanz/demo-npm#readme"
 }
